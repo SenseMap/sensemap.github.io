@@ -1,0 +1,140 @@
+{
+    "All": [],
+    "Businesses & Manufacturing": [
+        "factories and mines",
+        "zone",
+        "office building",
+        "real estate agency",
+        "company",
+        "agriculture and forestry and horticulture",
+        "study abroad agency",
+        "news publishing"
+    ],
+    "Life Services": [
+        "public toilet",
+        "training institutions",
+        "maintenance point",
+        "pet service",
+        "laundry",
+        "graphic print shop",
+        "photo studio",
+        "funeral service",
+        "logistics company",
+        "post office",
+        "communication business hall",
+        "housekeeping",
+        "lottery point of sale",
+        "newsstand"
+    ],
+    "Retail & Shopping": [
+        "department store",
+        "convenience store",
+        "supermarket",
+        "store",
+        "household building materials",
+        "home appliances digital",
+        "market",
+        "shopping center"
+    ],
+    "Government & Public Infrustructure": [
+        "foreign institutions",
+        "governments at all levels",
+        "residents committee",
+        "partisan groups",
+        "political education institution",
+        "democratic party",
+        "central agency",
+        "utilities",
+        "administrative unit",
+        "public procuratorate",
+        "welfare agency",
+        "social groups",
+        "broadcasting"
+    ],
+    "Residential": [
+        "residential area",
+        "dormitory"
+    ],
+    "Food & Catering": [
+        "Chinese restaurant",
+        "snack fast food restaurant",
+        "foreign restaurant",
+        "cake dessert shop",
+        "cafe",
+        "tea house"
+    ],
+    "Transportation": [
+        "subway station",
+        "train station",
+        "long distance bus station",
+        "service area",
+        "bus stop",
+        "airport",
+        "parking lot",
+        "gas station",
+        "ordinary parking space"
+    ],
+    "Social & Entertainment": [
+        "leisure square",
+        "cultural palace",
+        "exhibition hall",
+        "church",
+        "zoo",
+        "farmhouse",
+        "bath massage",
+        "theater",
+        "cinema",
+        "science museum",
+        "art gallery",
+        "karaoke bar",
+        "internet cafe",
+        "game place",
+        "dance hall",
+        "bar"
+    ],
+    "Travel & Attractions": [
+        "apartment hotel",
+        "express inn",
+        "homestay",
+        "ticket office",
+        "star hotels",
+        "resort",
+        "attractions",
+        "temple",
+        "amusement park",
+        "garden",
+        "aquarium",
+        "ancient artifacts",
+        "botanical garden",
+        "scenic area",
+        "beach"
+    ],
+    "Healthcare": [
+        "pharmacy",
+        "medical insurance",
+        "clinic",
+        "nursing home",
+        "medical instruments",
+        "physical examination institutions",
+        "general hospital",
+        "specialist hospital",
+        "centers for disease control and prevention",
+        "emergency center"
+    ],
+    "Education": [
+        "library",
+        "research institutions",
+        "parenting education",
+        "kindergarten",
+        "primary school",
+        "middle school",
+        "adult education",
+        "special education school",
+        "art group",
+        "colleges and universities",
+        "museum"
+    ],
+    "Sports": [
+        "gym"
+    ]
+}
